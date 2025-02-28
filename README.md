@@ -106,7 +106,7 @@ data-analysis-template/
 
 ## Contributing
 
-Guidelines for how to contribute to this template...
+Feel free to fork this repository and submit suggestions or issues through the issues module.
 
 ## License
 
